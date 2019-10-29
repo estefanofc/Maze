@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/estefanofelipa/Desktop/ass3-maze-starter-master/creature.cpp
+creature.h
+/Users/estefanofelipa/Desktop/ass3-maze-starter-master/creature.h
+iostream
+-
+
+/Users/estefanofelipa/Desktop/ass3-maze-starter-master/creature.h
+maze.h
+/Users/estefanofelipa/Desktop/ass3-maze-starter-master/maze.h
+ostream
+-
+
+/Users/estefanofelipa/Desktop/ass3-maze-starter-master/maze.h
+ostream
+-
+
