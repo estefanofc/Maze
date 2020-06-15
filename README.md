@@ -81,8 +81,5 @@ This option is not available in CSS Linux lab under LLVM 3.8.1, but is needed on
 - hicpp-special-member-functions: not defining move operator
 - cppcoreguidelines-owning-memory: not using gsl
 
-## Misc
 
-This file is part of a repository located at
-https://github.com/pisan342/ass3-maze-starter
 
